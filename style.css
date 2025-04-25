@@ -1,5 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
 .arriba{
     background-color: orange;
     width: 100%;
     height: 30vh;
+}
+#div1{
+    display: flex;
+    width: 40%;
+    background-color: orange;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+#div2{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(238, 196, 118, 0.822);
+    align-items: center;
+    
+    
 }
